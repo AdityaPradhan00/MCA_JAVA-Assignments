@@ -1,5 +1,5 @@
-//Q. Write a program to accept two itegers through command line arguments and display the addition,
-//substraction, multiplication and division
+//Q. Write a program to accept two integers through command line arguments and display the addition,
+//subtraction, multiplication and division
 public class add{
     public static void main(String args[]){
         System.out.print("Sum: " + (Integer.parseInt(args[0])+Integer.parseInt(args[1])));//pasrsing the string numbers to integer 
