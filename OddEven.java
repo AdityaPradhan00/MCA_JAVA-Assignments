@@ -1,3 +1,5 @@
+//Program that will get odd, even, and prime numbers within a range
+//given by the user.
 import java.io.*;
 class Prog
 {
